@@ -1,4 +1,10 @@
-## Hi there 👋
+<!-- ## Hi there 👋 -->
+I'm a French postdoc in Bielefeld, Germany.
+
+I mainly worked on
+- [findere](https://github.com/lrobidou/findere), a method for correcting false positives returned by AMQ data structures (e.g. Bloom filters)
+- [fimpera](https://github.com/lrobidou/fimpera), a method for correcting abundance queries on counting AMQ data structures (e.g. counting Bloom filters)
+- [kfc](https://github.com/lrobidou/kfc), a k-mer counter for large k values (e.g. k >= 200)
 
 <!--
 **lrobidou/lrobidou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
